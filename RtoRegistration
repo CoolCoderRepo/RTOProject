@@ -1,0 +1,5 @@
+class RToReg{
+   int vehicleNo=1860;
+    String vehicleName="KtmDuke 250";
+  
+}
